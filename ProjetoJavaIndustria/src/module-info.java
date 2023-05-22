@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author flope
+ *
+ */
+module ProjetoJavaIndustria {
+}
